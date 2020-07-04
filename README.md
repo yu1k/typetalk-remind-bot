@@ -49,7 +49,7 @@ Typetalkで投稿してほしい、トピックにbotアカウントをつくり
 上のパッケージとNode.jsをインストールした環境で、
 
 ```
-& node script.js
+$ node script.js
 ```
 
 を実行します。
